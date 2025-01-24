@@ -1,0 +1,8 @@
+node_modules
+.git
+.env
+coverage
+.cache
+dist
+artifacts
+deployments
